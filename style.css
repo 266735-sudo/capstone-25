@@ -1,0 +1,37 @@
+/* Make navbar taller */
+.custom-navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/* Make brand text larger */
+.custom-brand {
+    font-size: 1.6rem; /* increase size */
+}
+
+/* White box behind text + image */
+.brand-box {
+    background: white;
+    color: black;
+    padding: 6px 12px;
+    border-radius: 6px;
+    display: inline-flex;
+    align-items: center;
+}
+
+/* Make logo bigger */
+.brand-logo {
+    height: 40px; /* increased from 30px */
+    margin-left: 10px;
+}
+
+.num-green {
+    color: green;
+    font-weight: bold;
+}
+
+.num-red {
+    color: red;
+    font-weight: bold;
+}
+
