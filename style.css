@@ -35,3 +35,15 @@
     font-weight: bold;
 }
 
+.faq-logo-wrapper {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.faq-logo {
+    width: 70%;      /* force full width */
+    max-width: 48%;  /* remove any limiting */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
