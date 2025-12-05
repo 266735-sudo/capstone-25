@@ -47,3 +47,17 @@
     display: block;
     margin: 0 auto;
 }
+
+.ref-logo-wrapper {
+    text-align: left;   /* align image to the left */
+    margin-top: 20px;
+}
+
+.ref-logo {
+    width: 70%;
+    max-width: 48%;
+    height: auto;
+    display: block;
+    margin: 0;          /* remove centering */
+}
+
