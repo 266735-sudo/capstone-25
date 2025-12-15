@@ -1,15 +1,15 @@
-/* Make navbar taller */
+
 .custom-navbar {
     padding-top: 15px;
     padding-bottom: 15px;
 }
 
-/* Make brand text larger */
+
 .custom-brand {
-    font-size: 1.6rem; /* increase size */
+    font-size: 1.6rem; 
 }
 
-/* White box behind text + image */
+
 .brand-box {
     background: white;
     color: black;
@@ -19,9 +19,9 @@
     align-items: center;
 }
 
-/* Make logo bigger */
+
 .brand-logo {
-    height: 40px; /* increased from 30px */
+    height: 40px; 
     margin-left: 10px;
 }
 
@@ -41,15 +41,15 @@
 }
 
 .faq-logo {
-    width: 70%;      /* force full width */
-    max-width: 48%;  /* remove any limiting */
+    width: 70%;      
+    max-width: 48%;  
     height: auto;
     display: block;
     margin: 0 auto;
 }
 
 .ref-logo-wrapper {
-    text-align: left;   /* align image to the left */
+    text-align: left;  
     margin-top: 20px;
 }
 
@@ -58,6 +58,14 @@
     max-width: 48%;
     height: auto;
     display: block;
-    margin: 0;          /* remove centering */
+    margin: 0;          
 }
+
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: #111;
+    font-family: Arial, sans-serif;
+}
+
 
